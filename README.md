@@ -2,10 +2,10 @@
 
 Welcome to my GitHub profile! I'm passionate about coding, technology, and always eager to learn something new. Outside of tech, I have a deep love for biking and sports, especially when it comes to superbikes like the ZX10R, Hornet, S1000RR, and CBR1000.
 
-## 🚴‍♂️ About Me
+## 😀 About Me
 - 🔭 Currently exploring the tech world and building cool projects.
 - 🏍️ Motorcycle enthusiast (ZX10R, Hornet, S1000RR, CBR1000).
-- 🚴‍♂️ Sports lover and avid cyclist.
+- 🏋️‍♂️ Passionate about **calisthenics**, **swimming**, and **cycling**.
 - 💡 Always keen on learning and improving my skills.
 
 ## 🛠 Skills & Technologies
