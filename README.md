@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and alway
 - 💡 Always keen on learning and improving my skills.
 
 ## 🛠 Skills & Technologies
-- (List the programming languages, tools, or frameworks you're familiar with here)
+- c
 
 ## 🌍 Connect with Me
 - adamzahraoui30@gmail.com
