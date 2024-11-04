@@ -14,12 +14,15 @@
  📫 How to reach me **adamzahraoui30@gmail.com**
 
 <h3>Languages and Tools:</h3>
-<p> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<p> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
 <a>
-  <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=ayoubediri&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=adamzahraoui&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a>
-    <img align="center"width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubediri&layout=compact&theme=aura&langs_count=9" />
+    <img align="center"width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamzahraoui&layout=compact&theme=aura&langs_count=9" />
+</a>
+<a>
+    <img align="center"width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamzahraoui&layout=compact&theme=aura&langs_count=9" />
 </a>
 
 [![adzahrao's 42 stats](https://badge.mediaplus.ma/greenbinary/adzahrao)](https://github.com/oakoudad/badge42)
