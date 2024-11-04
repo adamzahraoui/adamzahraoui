@@ -18,4 +18,4 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and alway
 
 Thanks for visiting! Feel free to explore my repositories and connect with me on social media! 😊
 
-[![adzahrao's 42 stats](https://badge.mediaplus.ma/greenbinary/adzahrao)](https://github.com/oakoudad/badge42)
+                                                        [![adzahrao's 42 stats](https://badge.mediaplus.ma/greenbinary/adzahrao)](https://github.com/oakoudad/badge42)
