@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and alway
 - (List the programming languages, tools, or frameworks you're familiar with here)
 
 ## 🌍 Connect with Me
-- 📧 Email: adamzahraoui30@gmail.com
+- [Email]adamzahraoui30@gmail.com
 - [Instagram](https://www.instagram.com/adam__zahraoui_?igsh=OGQ5ZDc2ODk2ZA==)
 - [Facebook](https://www.facebook.com/share/i5S5nkcCAnEkFfN1/?mibextid=qi2Omg)
 
