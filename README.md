@@ -6,7 +6,6 @@
 </p>
 <h3 align="center">I am a programmer from Morocco</h3>
 
-<p> <img src="https://komarev.com/ghpvc/?username=ayoubediri&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubediri" /> </p>
 
  🌱 I’m currently learning **C**
 
