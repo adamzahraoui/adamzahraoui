@@ -30,10 +30,6 @@
 
 
 
-<a>
-    <img align="center"width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamzahraoui&layout=compact&theme=aura&langs_count=9" />
-</a>
-
 
 
 
