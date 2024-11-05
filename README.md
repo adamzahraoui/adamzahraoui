@@ -23,11 +23,18 @@
   <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=adamzahraoui&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 
+
 <a>
     <img align="center"width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamzahraoui&layout=compact&theme=aura&langs_count=9" />
 </a>
 
+
+
+
+
+
 [![adzahrao's 42 stats](https://badge.mediaplus.ma/greenbinary/adzahrao)](https://github.com/oakoudad/badge42)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
