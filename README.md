@@ -34,7 +34,6 @@
 
 
 
-[![adzahrao's 42 stats](https://badge.mediaplus.ma/greenbinary/adzahrao)](https://github.com/oakoudad/badge42)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake-dark.svg">
