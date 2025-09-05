@@ -12,21 +12,27 @@
 
 
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/adzahrao" alt="adzahrao's 42 stats" /></a>
+<p align="center" style="margin-top:10px; margin-bottom:20px;">
 
-<p align="center" style="display:flex; justify-content:center; align-items:flex-start; gap:20px; flex-wrap:wrap; margin-top:20px; margin-bottom:20px;">
-
-  <!-- Neon GitHub Stats -->
+  <!-- Smaller Top Languages Card -->
   <a href="https://github.com/adamzahraoui" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=adamzahraoui&show_icons=true&theme=radical&hide_border=false&border_radius=20&title_color=00FFFF&icon_color=FF69B4&text_color=FFFFFF&bg_color=1B1F23" alt="GitHub Stats" width="320"/>
-  </a>
-
-  <!-- Neon Top Languages -->
-  <a href="https://github.com/adamzahraoui" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamzahraoui&layout=compact&theme=radical&hide_border=false&border_radius=20&title_color=00FFFF&text_color=FFFFFF&bg_color=1B1F23" alt="Top Languages" width="320"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamzahraoui&layout=compact&theme=radical&hide_border=false&border_radius=20&title_color=00FFFF&text_color=FFFFFF&bg_color=1B1F23" alt="Top Languages" width="400"/>
   </a>
 
 </p>
+
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/adzahrao" alt="adzahrao's 42 stats" /></a>
+
+<p align="center" style="margin-top:20px; margin-bottom:20px;">
+
+  <!-- Big GitHub Stats Card -->
+  <a href="https://github.com/adamzahraoui" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=adamzahraoui&show_icons=true&theme=radical&hide_border=false&border_radius=20&title_color=00FFFF&icon_color=FF69B4&text_color=FFFFFF&bg_color=1B1F23" alt="GitHub Stats" width="700"/>
+  </a>
+
+</p>
+
+
 
 
 <picture>
