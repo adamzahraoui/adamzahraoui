@@ -1,38 +1,32 @@
 <div align="center">
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center"><b>Hi , I'm Adam zahraoui </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;I'm+A+Computer+Science+Student,;And+full+Stack+Developer+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+<h1 align="center"><b>Hi , I'm Adam zahraoui | AKIRA </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!-- Main Typing Animation -->
+
+### 🌟 About Me 🌟
+<p align="center" style="margin-top:20px; margin-bottom:20px;">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=22&duration=4000&pause=500&color=7FFFD4&width=700&height=120&center=true&lines=Salamo+3alaykom+wa+rahmato+Allah+🌸;I+am+Adam+Zahraoui+(AKIRA);Passionate+about+C+Programming+and+System+Development;Computer+Science+Student;Full+Stack+Developer+in+progress;Active+Learner+and+Researcher;Always+curious+to+learn+more;Motorcycle+Enthusiast+🏍️;Sports+and+Learning+are+my+Passions" alt="About Me Typing Animation" style="border-radius:10px; box-shadow:0px 4px 12px rgba(0,0,0,0.3);"/>
+  </a>
 </p>
-<h3 align="center">I am a programmer from Morocco</h3>
 
-
- 🌱 I’m currently learning **C**
-
- 💬 Ask me about **C**
-
- 📫 How to reach me **adamzahraoui30@gmail.com**
-
-<h3>Languages and Tools:</h3>
-
-
-<p> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
-
-
-<a>
-  <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=adamzahraoui&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-
-
-<a>
-    <img align="center"width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamzahraoui&layout=compact&theme=aura&langs_count=9" />
-</a>
 
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/adzahrao" alt="adzahrao's 42 stats" /></a>
 
+<p align="center" style="display:flex; justify-content:center; align-items:flex-start; gap:20px; flex-wrap:wrap; margin-top:20px; margin-bottom:20px;">
 
+  <!-- Neon GitHub Stats -->
+  <a href="https://github.com/adamzahraoui" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=adamzahraoui&show_icons=true&theme=radical&hide_border=false&border_radius=20&title_color=00FFFF&icon_color=FF69B4&text_color=FFFFFF&bg_color=1B1F23" alt="GitHub Stats" width="320"/>
+  </a>
+
+  <!-- Neon Top Languages -->
+  <a href="https://github.com/adamzahraoui" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamzahraoui&layout=compact&theme=radical&hide_border=false&border_radius=20&title_color=00FFFF&text_color=FFFFFF&bg_color=1B1F23" alt="Top Languages" width="320"/>
+  </a>
+
+</p>
 
 
 <picture>
