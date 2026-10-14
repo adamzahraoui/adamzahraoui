@@ -1,33 +1,52 @@
-<div align="center">
+# Adam Zahraoui (AKIRA)
 
-# 👋 Hi, I'm Adam Zahraoui (AKIRA)
+**Full Stack Development Student · 1337 School (UM6P) · 42 Network**
 
-### Full Stack Development Student @ 1337 School (UM6P) — 42 Network
+> Passionate about Software Engineering, System Programming, and Modern Web Development.
 
-Passionate about Software Engineering, System Programming, and Modern Web Development.
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=720&lines=C+%26+C%2B%2B+Developer;Full+Stack+Developer+in+Progress;React+%7C+Next.js+%7C+TypeScript;System+Programming+%7C+Web+Development;Always+Learning+New+Technologies" alt="Typing SVG" />
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=adamzahraoui&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/adamzahraoui)
-[![Followers](https://img.shields.io/github/followers/adamzahraoui?label=Followers&style=flat&color=0e75b6)](https://github.com/adamzahraoui)
-[![Stars](https://img.shields.io/github/stars/adamzahraoui?label=Stars&style=flat&color=0e75b6)](https://github.com/adamzahraoui)
-
-</div>
+[![Profile Views](https://komarev.com/ghpvc/?username=adamzahraoui&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/adamzahraoui)
+[![Followers](https://img.shields.io/github/followers/adamzahraoui?label=Followers&style=flat-square&color=0e75b6)](https://github.com/adamzahraoui)
+[![Stars](https://img.shields.io/github/stars/adamzahraoui?label=Stars&style=flat-square&color=0e75b6)](https://github.com/adamzahraoui)
 
 ---
 
-## 👨‍💻 About Me
+## 👋 Professional Summary
 
-I am a **Full Stack Development student** at **1337 School (UM6P)**, part of the **42 Network**, with a strong foundation in **C/C++** and a growing focus on **modern web technologies**. I enjoy building things from the ground up — from low-level system programs to responsive, user-friendly web applications.
+I am a Full Stack Development student at **1337 School (UM6P)**, part of the **42 Network**, with a strong foundation in **C/C++** and system-level programming. I enjoy designing and building software from the ground up — from low-level system programs to modern, responsive web applications. I value clean code, thoughtful architecture, and continuous improvement.
 
-- 🎓 Studying Full Stack Development at **1337 School (UM6P)**
-- 💻 Strong foundation in **C / C++** and system-level programming
-- 🌱 Currently learning **React, Next.js, TypeScript & Backend Development**
-- 🔍 Interested in **Web Development, Artificial Intelligence & System Programming**
-- 🧠 Always improving **software architecture & problem-solving skills**
-- 🏍️ Motorcycle enthusiast · ⚽ Sports lover · 📚 Continuous learner
+---
+
+## 🎓 Education
+
+| Institution | Program | Focus |
+|---|---|---|
+| **1337 School (UM6P)** — 42 Network | Full Stack Development | C / C++, System Programming, Web Development |
+
+---
+
+## 🛠️ Technical Skills
+
+| Category | Technologies |
+|---|---|
+| **Languages** | C, C++, JavaScript, TypeScript |
+| **Frontend** | HTML5, CSS3, React, Next.js |
+| **Backend & Databases** | Node.js, MongoDB, MySQL |
+| **Tools & Environment** | Git, GitHub, Linux, Bash, VS Code |
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,react,nextjs,nodejs,mongodb,mysql,git,github,linux,bash,vscode" />
+</p>
+
+---
+
+## 🚀 Selected Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🖥️ **Minishell** | A fully functional Unix shell with parsing, pipes, redirections & built-ins | C |
+| 🎮 **Cub3D** | A raycasting 3D engine inspired by Wolfenstein 3D | C, MiniLibX |
+| 📚 **CPP Modules** | Progressive Object-Oriented Programming exercises covering C++ fundamentals | C++ |
+| 🌐 **Web Projects** | Full-stack web applications with responsive UIs and REST APIs | React, Next.js, Node.js, TS |
 
 ---
 
@@ -40,52 +59,14 @@ I am a **Full Stack Development student** at **1337 School (UM6P)**, part of the
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
-</p>
-
-### Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
-</p>
-
-### Tools & Environment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,bash" />
-</p>
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=adamzahraoui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adamzahraoui&layout=compact&theme=tokyonight&hide_border=true" />
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=adamzahraoui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adamzahraoui&layout=compact&theme=tokyonight&hide_border=true)
 
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=adamzahraoui&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adamzahraoui&theme=tokyo-night&hide_border=true" />
+![GitHub Streak](https://streak-stats.demolab.com?user=adamzahraoui&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -95,59 +76,23 @@ I am a **Full Stack Development student** at **1337 School (UM6P)**, part of the
 
 <div align="center">
 
-<a href="https://github.com/oakoudad/badge42">
-  <img src="https://badge.mediaplus.ma/greenbinary/adzahrao" alt="42 Stats" />
-</a>
+[![42 Stats](https://badge.mediaplus.ma/greenbinary/adzahrao)](https://github.com/oakoudad/badge42)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🌍 Connect
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🖥️ **Minishell** | A fully functional Unix shell with parsing, pipes, redirections & built-ins | C |
-| 🎮 **Cub3D** | A raycasting 3D engine inspired by Wolfenstein 3D | C, MiniLibX |
-| 📚 **CPP Modules** | Progressive Object-Oriented Programming exercises covering C++ fundamentals | C++ |
-| 🌐 **Web Projects** | Full-stack web applications with responsive UIs and REST APIs | React, Next.js, Node.js, TS |
+| Platform | Handle |
+|---|---|
+| **GitHub** | [@adamzahraoui](https://github.com/adamzahraoui) |
+| **LinkedIn** | [Adam Zahraoui](https://www.linkedin.com/in/adam-zahraoui-a9bb8a32a/) |
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=adamzahraoui&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
+Feel free to reach out — I am open to discussing projects, ideas, or opportunities.
 
 ---
-
-## 🌍 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/adamzahraoui">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/adam-zahraoui-a9bb8a32a/">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-
-<br/><br/>
-
-**💬 Feel free to reach out — I'm always open to discussing projects, ideas, or opportunities.**
-
-</div>
-
----
-
-<div align="center">
 
 ### ⚡ "Code. Learn. Build. Repeat."
 
-<sub>Made with ❤️ by **Adam Zahraoui (AKIRA)**</sub>
-
-</div>
+<sub>Built with care by **Adam Zahraoui (AKIRA)**</sub>
