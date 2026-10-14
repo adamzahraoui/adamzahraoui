@@ -7,7 +7,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=adamzahraoui&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/adamzahraoui)
 [![Followers](https://img.shields.io/github/followers/adamzahraoui?label=Followers&style=flat-square&color=0e75b6)](https://github.com/adamzahraoui)
 [![Stars](https://img.shields.io/github/stars/adamzahraoui?label=Stars&style=flat-square&color=0e75b6)](https://github.com/adamzahraoui)
-[![Portfolio](https://img.shields.io/badge/Portfolio-adamzahraoui.github.io-0e75b6?style=flat-square)](https://adamzahraoui.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-adamzahraoui.me-0e75b6?style=flat-square)](https://adamzahraoui.me/)
 
 ---
 
@@ -27,7 +27,7 @@ My current focus is **full stack web development** with **React, Next.js and Typ
 | **School** | 1337 School (UM6P) |
 | **Curriculum** | 42 Network |
 | **Focus** | Full Stack Development & DevOps |
-| **Portfolio** | [adamzahraoui.github.io](https://adamzahraoui.github.io/) |
+| **Portfolio** | [adamzahraoui.me](https://adamzahraoui.me/) |
 
 ---
 
@@ -118,11 +118,11 @@ Each has its own README with build and usage instructions.
 
 | Platform | Link |
 |---|---|
-| **Portfolio** | [adamzahraoui.github.io](https://adamzahraoui.github.io/) |
+| **Portfolio** | [adamzahraoui.me](https://adamzahraoui.me/) |
 | **GitHub** | [@adamzahraoui](https://github.com/adamzahraoui) |
 | **LinkedIn** | [Adam Zahraoui](https://www.linkedin.com/in/adam-zahraoui-a9bb8a32a/) |
 | **Email** | [adamzahraoui1337@gmail.com](mailto:adamzahraoui1337@gmail.com) |
-| **CV (bilingual)** | [View / Download](https://adamzahraoui.github.io/) *(EN / FR)* |
+| **CV (bilingual)** | [View / Download](https://adamzahraoui.me/) *(EN / FR)* |
 
 Feel free to reach out — I am always open to discussing projects, ideas, or opportunities.
 
